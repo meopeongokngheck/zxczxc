@@ -336,7 +336,7 @@ if _G.Switch_Hub_Series_R then
 
 	-- Booster
 	
-	_G.library = loadstring(game:HttpGet("https://raw.githubusercontent.com/soulju2097/Gui/main/README.md"))()
+	_G.library = loadstring(game:HttpGet("https://raw.githubusercontent.com/soulju2097/Gui/cd1af39db3a645e4f54e74d5f1767f7e6714f1c5/README.md"))()
 	library = _G.library
 	
 	local PepsisWorld = library:CreateWindow({
